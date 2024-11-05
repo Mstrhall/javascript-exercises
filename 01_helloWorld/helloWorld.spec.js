@@ -1,4 +1,4 @@
-const helloWorld = require('./helloWorld-solution');
+const helloWorld = require('./solution/helloWorld-solution');
 
 describe('Hello World', function () {
   test('says "Hello, World!"', function () {
